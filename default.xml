@@ -476,6 +476,7 @@
 <!--+============== Mantoui Other -->
 
   <project path="vendor/mantoui" name="vendor_mantoui" remote="mantoui" revision="kitkat" />
+  <project path="vendor/supersu" name="vendor_supersu" remote="mantoui" revision="kitkat" />
 
 <!--+============== Mantoui Device -->
 
